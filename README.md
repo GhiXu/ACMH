@@ -1,5 +1,5 @@
 # ACMH
-[News] The code for [ACMM](https://github.com/GhiXu/ACMM) is released!!!
+[News] The code for [ACMM](https://github.com/GhiXu/ACMM) is released!!!  
 [News] The code for [ACMP](https://github.com/GhiXu/ACMP) is released!!!
 ## About
 ACMH is a simple yet effective PatchMatch MVS method, which is the base model of [ACMM](https://arxiv.org/abs/1904.08103) and [ACMP](https://arxiv.org/abs/1912.11744). If you find this project useful for your research, please cite:  
