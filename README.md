@@ -30,7 +30,7 @@ make
 ```
 * Test 
 ``` 
-Use script colmap2mvsnet_acm.py to convert COLMAP SfM result to ACMP input   
+Use script colmap2mvsnet_acm.py to convert COLMAP SfM result to ACMH input   
 Run ./ACMH $data_folder to get reconstruction results
 ```
 ## Acknowledgemets
