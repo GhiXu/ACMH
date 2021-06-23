@@ -1,8 +1,9 @@
 # ACMH
 [News] The code for [ACMM](https://github.com/GhiXu/ACMM) is released!!!  
-[News] The code for [ACMP](https://github.com/GhiXu/ACMP) is released!!!
+[News] The code for [ACMP](https://github.com/GhiXu/ACMP) is released!!!  
+[News] The code for [ACMMP](https://github.com/GhiXu/ACMMP) is released!!!  
 ## About
-ACMH is a simple yet effective PatchMatch MVS method, which is the base model of [ACMM](https://arxiv.org/abs/1904.08103) and [ACMP](https://arxiv.org/abs/1912.11744). If you find this project useful for your research, please cite:  
+ACMH is a simple yet effective PatchMatch MVS method, which is the base model of [ACMM](https://arxiv.org/abs/1904.08103), [ACMP](https://arxiv.org/abs/1912.11744) and ACMMP. If you find this project useful for your research, please cite:  
 ```
 @article{Xu2019ACMM,  
   title={Multi-Scale Geometric Consistency Guided Multi-View Stereo}, 
